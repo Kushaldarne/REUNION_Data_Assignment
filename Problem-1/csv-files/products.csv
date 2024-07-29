@@ -1,0 +1,11 @@
+ProductID,Name,Category,IsDiscontinued
+1,T-shirt,Clothing,0
+2,Jeans,Clothing,0
+3,Milk,Groceries,0
+4,Bread,Groceries,0
+5,Laptop,Electronics,0
+6,Phone,Electronics,0
+7,Headphones,Electronics,0
+8,Jacket,Clothing,0
+9,Butter,Groceries,0
+10,Cheese,Groceries,0
